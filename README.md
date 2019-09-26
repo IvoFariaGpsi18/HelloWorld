@@ -1,2 +1,12 @@
-# HelloWorld
+# HelloWorld IN Cs
 Idk 
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello World :D ");
+	}
+}
